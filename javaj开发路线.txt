@@ -1,0 +1,57 @@
+
+第一个阶段：java基础阶段 
+
+java语法
+面向对象 （java核心）
+常用的api 
+界面编程 （安卓，APP等开发必备）
+多线程 （面试必备）
+文件io 
+java网络编程.（需了解）
+XML解析
+这是学习java开发的基础阶段，也是以后的学习基石，这一部分的学习很重要！
+ 
+
+第二个阶段：数据库阶段 
+
+oracle 
+mysql 
+sql server 
+目前中国软件公司用的最多的三大主流数据库是sql server,mysql ,oracle .目前看来oracle数据库越来越流行了。国内一般公司使用的是mysql数据库，大型公司使用Oracle数据库比较多，所以两者都要有所了解！
+
+一般情况下PHP对应MySQL数据库；ASP对应SQL数据库；JSP对应ORACLE数据库。所以大家会 经常看到市场上JAVA培训都是用的ORACLE数据库，其实你学会了ORACLE数据库，再去学习MySQL、SQL数 据库，你会觉得有很多相似的之处，学起来也容易上手了。
+
+第三个阶段：web开发阶段 
+
+html 
+css 
+javascript
+JQuery
+Ajax
+这三个部分是进行web开发的必须技术一定要好好学习，毕竟互联网在我们的生活中无处不在，Ajax在以后开发中使用率很高！
+
+第四个阶段：j2ee 中级部分 
+
+servlet 
+jsp 
+mvc 
+jstl
+这个阶段是接近企业的需求了，所以学习起来，难度偏大，如果前面没有学习扎实，会比较麻烦。
+
+所以衷心的告诫大家，把前面的学好，再学习第四个阶段，这里的mvc思想不太好理解，是学习的重点。同时要学习 tomcat/jboss/wl 这些服务器，所以你可能感到要学习的东西一下多了很多。
+
+第五个阶段：j2ee 高级部分 
+
+SSH三大框架（面试常问题，面试必备）
+
+struts 
+hibernate 
+spring
+SSM三大框架（目前最流行的框架，开发必备）
+
+Spring
+SpringMVC
+Mybatis
+学习完Servlet、JSP然后再去学习框架SSH、SSM等最前沿的最流行的网络编程必备的软件技能。框架的基础就是Servlet、JSP。首先大家应该学习的是Struts框架，典型的MVC模型。
+
+第六个阶段：项目实践
